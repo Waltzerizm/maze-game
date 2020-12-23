@@ -1,7 +1,3 @@
-#  Author: CS1527 Course Team
-#  Date: 9 January 2020
-#  Version: 1.0
-
 from getch1 import *
 import random
 

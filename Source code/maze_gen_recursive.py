@@ -1,8 +1,4 @@
 # This code is based on http://arcade.academy/examples/maze_recursive.html
-#
-# Modified by CS1527 Course Team on 30 January 2019
-#
-#
 
 import random
 
